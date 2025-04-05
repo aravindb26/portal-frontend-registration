@@ -53,7 +53,7 @@
     "react-bootstrap": "^2.10.7",
     "react-datepicker": "^6.7.0",
     "react-dom": "^18.2.0",
-    "react-dropzone": "^14.2.10",
+    "react-dropzone": "^14.3.8",
     "react-dropzone-uploader": "^2.11.0",
     "react-hook-form": "^7.53.2",
     "react-i18next": "^14.1.0",
